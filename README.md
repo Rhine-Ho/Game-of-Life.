@@ -1,1 +1,1 @@
-<h1 align="About "
+<h1 align="center">about</h1>
